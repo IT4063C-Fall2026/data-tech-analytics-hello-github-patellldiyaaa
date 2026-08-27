@@ -24,23 +24,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- . I learned how to properly commit and push files to Git
 
 **I struggled with:** (repeat as needed)
-- .
+- . I struggled with the lines in the file to actually show up in the Git Repo. I did not have the file saved locally so it wasn't showing up. 
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- . Not anything as of now. 
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
-
+ Probably a 18/20, I made many commits trying to get the work to show up. 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- . None
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- . None
 
 ---
 ## Copyrights and License
